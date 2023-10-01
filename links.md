@@ -28,5 +28,14 @@ Talks about the definition of UNIX operating system, structure of UNIX File Syst
 What is NFS? Understanding the Network File System
 Talks about the general concept of NFS, the three versions of NFS, and what makes NFS useful.
 
+7. [Seven](https://www.ukessays.com/essays/computer-science/memory-management-in-unix-operating-system-computer-science-essay.php#:~:text=UNIX%20owns%20a%20(semi%2D),from%20corrupting%20the%20system%20area.)<br>
+UNIX Memory Management
+Talks about the introduction to UNIX, memory management, memory partitioning, management strategies like overlays, swapping, external fragmentation problem, and other solutions.
+
+8. [Eight](https://www.networkworld.com/article/2696541/unix--knowing-your-memory-commands.html)<br>
+UNIX Memory Commands
+Talks about and explain the uses of memory commands in UNIX such as free, sar, pagesize, and many more.
+
+
 <br>
 <hr>
