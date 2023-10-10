@@ -36,6 +36,13 @@ Talks about the introduction to UNIX, memory management, memory partitioning, ma
 UNIX Memory Commands
 Talks about and explain the uses of memory commands in UNIX such as free, sar, pagesize, and many more.
 
+9. [Nine](https://www.geeksforgeeks.org/memory-management-in-operating-system/)<br>
+Memory Management in Operating System
+Talks about what is main memory, memory management, uses of memory management, logical and physical address space, static and dynamic loading, linking, swapping. Another thing being discussed is memory allocation methods such as contiguous memory allocation, other components like fragmentation, and paging.
+
+10. [Ten](https://www.techtarget.com/whatis/definition/memory-management)<br>
+What is memory management?
+Memory management at OS level and program/application level. Examples of tasks are allocation and recycling. 
 
 <br>
 <hr>
