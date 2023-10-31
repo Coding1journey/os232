@@ -44,5 +44,14 @@ Talks about what is main memory, memory management, uses of memory management, l
 What is memory management?
 Memory management at OS level and program/application level. Examples of tasks are allocation and recycling. 
 
+11. [Eleven](https://www.geeksforgeeks.org/processes-in-linuxunix/)<br>
+Processes in Linux
+Talks about how to initialize a process, tracking ongoing processes, other process commands, and types of processes.
+
+12. [Twelve](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)<br>
+Threads and Concurrency in Operating System
+Talks about synchronisation mechanisms, the creation of thread and thread itself, definition of mutual exclusion API, conditional variable API, deadlocks, deadlock prevention methods, and lastly user and kernel threads.
+
+
 <br>
 <hr>
