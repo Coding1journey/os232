@@ -52,6 +52,14 @@ Talks about how to initialize a process, tracking ongoing processes, other proce
 Threads and Concurrency in Operating System
 Talks about synchronisation mechanisms, the creation of thread and thread itself, definition of mutual exclusion API, conditional variable API, deadlocks, deadlock prevention methods, and lastly user and kernel threads.
 
+13. [Thirteen](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
+Introduction of Process Synchronization
+This talks about the race condition, critical section problem, peterson's solution, semaphores, and other advantages also disadvantages.
+
+14. [Fourteen](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
+Introduction of Deadlock in Operating System
+Talks about what is deadlock, examples of deadlock, and methods for handling deadlock.
+
 
 <br>
 <hr>
