@@ -60,6 +60,13 @@ This talks about the race condition, critical section problem, peterson's soluti
 Introduction of Deadlock in Operating System
 Talks about what is deadlock, examples of deadlock, and methods for handling deadlock.
 
+15. [Fiveteen](https://www.scaler.com/topics/operating-system/cpu-scheduling/)<br>
+CPU Scheduling in Operating System
+This talks about what is CPU Scheduling in general, the types of CPU Scheduling, and the criterias.
+
+16. [Sixteen](https://www.javatpoint.com/cpu-scheduling-algorithms-in-operating-systems)<br>
+CPU Scheduling Algorithms
+This talks about the algorithms in CPU Scheduling and contain many formulas for finding turn around time, waiting time, ready queue, and Gantt chart.
 
 <br>
 <hr>
