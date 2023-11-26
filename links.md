@@ -68,5 +68,13 @@ This talks about what is CPU Scheduling in general, the types of CPU Scheduling,
 CPU Scheduling Algorithms
 This talks about the algorithms in CPU Scheduling and contain many formulas for finding turn around time, waiting time, ready queue, and Gantt chart.
 
+17. [Seventeen](https://www.tutorialspoint.com/Mass-Storage-Management)<br>
+Mass Storage Management
+This talks about the disk structure, disk scheduling, first come first server scheduling, shortest seek time first scheduling, SCAN scheduling, and LOOK scheduling.
+
+18. [Eighteen](https://www.geeksforgeeks.org/storage-structure-in-operating-systems/)<br>
+Storage Structure in Operating Systems
+Talks about volatile and non-volatile storage device and their visual examples or representation.
+
 <br>
 <hr>
